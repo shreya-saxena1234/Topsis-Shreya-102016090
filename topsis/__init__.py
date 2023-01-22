@@ -1,1 +1,1 @@
-from topsis.main_102016090 import topsis
+from topsis.main import topsis
